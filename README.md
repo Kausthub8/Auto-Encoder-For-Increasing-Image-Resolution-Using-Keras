@@ -1,6 +1,6 @@
 # Auto-Encoder-for-Increasing-Image-Resolution-Using-Keras
 1. This is an example of auto-encoder for perfoming image transformation tasks like Denoising, Super-Resolution and
-Colorization
+Colorization.
 
 2. In order to train this autoencoder, you can take dataset from:
 
